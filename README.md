@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on: Full-Stack web & cross-platform mobile apps using Flutter & Dart<br><br> I’m looking to collaborate on: End-to-end software engineering projects and full-stack solutions<br><br> I’m looking for help with: Advanced database optimization and scalable backend architectures<br><br> I’m currently learning: Modern full-stack architectures, API design, and cloud database integration<br><br> Ask me about: Software Engineering, Flutter, Dart, HTML/CSS/JS, and Databases (SQL & NoSQL)<br><br> Fun fact: I enjoy turning coffee and complex software requirements into clean, full-stack reality!
 
 
